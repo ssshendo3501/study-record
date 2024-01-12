@@ -1,0 +1,6 @@
+# readme
+
+## ディレクトリの構造
+myfirstclass.py：「071 クラス（class）」で作成したPersonクラス
+car.py：「072 インスタンでできること」のチャレンジ問題で作成したCarクラス
+account.py：「074_クラス作成課題」のAccountクラス
